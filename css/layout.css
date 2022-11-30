@@ -344,55 +344,7 @@ ul#nav li.current a { color: #5a90ed; }
   	width: 30%;
 }
 
-@-moz-keyframes ccpp {
-  0%   { width: 0px;  }
-  100% { width: 89%;  }
-}
-@-moz-keyframes python {
-  0%   { width: 0px;  }
-  100% { width: 75%;  }
-}
-@-moz-keyframes user_interface {
-  0%   { width: 0px;  }
-  100% { width: 70%;  }
-}
-@-moz-keyframes algo {
-  0%   { width: 0px;  }
-  100% { width: 63%;  }
-}
-@-moz-keyframes dig_el {
-  0%   { width: 0px;  }
-  100% { width: 63%;  }
-}
-@-moz-keyframes web_tech {
-  0%   { width: 0px;  }
-  100% { width: 30%;  }
-}
 
-@-webkit-keyframes ccpp {
-  0%   { width: 0px;  }
-  100% { width: 80%;  }
-}
-@-webkit-keyframes python {
-  0%   { width: 0px;  }
-  100% { width: 75%;  }
-}
-@-webkit-keyframes user_interface {
-  0%   { width: 0px;  }
-  100% { width: 70%;  }
-}
-@-webkit-keyframes algo {
-  0%   { width: 0px;  }
-  100% { width: 63%;  }
-}
-@-webkit-keyframes dig_el {
-  0%   { width: 0px;  }
-  100% { width: 63%;  }
-}
-@-webkit-keyframes web_tech {
-  0%   { width: 0px;  }
-  100% { width: 30%;  }
-}
 
 /* ------------------------------------------------------------------ */
 /* e. Portfolio Section
